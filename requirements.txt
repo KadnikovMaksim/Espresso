@@ -1,0 +1,4 @@
+sqlite3
+io
+sys
+PyQt6
